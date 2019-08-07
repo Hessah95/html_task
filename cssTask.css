@@ -1,0 +1,45 @@
+body {
+	background: #FFE9EC
+}
+
+.mainHead {
+	border-style: outset ;
+	border-color: red;
+	padding: 20px;
+	text-align: center;
+	font-family: fantasy;
+	letter-spacing: 2px;
+	font-style: italic;
+
+}
+
+h2 {
+	text-align: center;
+	text-decoration: underline;
+	text-shadow: 2px 2px 5px #A09294;
+	letter-spacing: 5px;
+	font-style: oblique;
+
+}
+
+.normal {
+	font-family: cursive;
+	text-align: center;
+	list-style-position: inside;
+	font-size: 20px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.photo1:hover {
+  transform: scale(1.5) rotate(10deg);
+}
+
+.photo2 {
+	border-radius: 50%;
+}
+
